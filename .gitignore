@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+
+# Dependencies and build output
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.venv/
+dist/
+build/
+
+# Logs
+*.log
